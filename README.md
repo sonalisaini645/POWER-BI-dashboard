@@ -18,13 +18,13 @@ Identify top-performing regions, peak sales months, and profitable items.
 ## Dataset Overview
 The dashboard is built using two CSV files:
 
-## Data used 
-https://github.com/sonalisaini645/POWER-BI-dashboard/blob/main/Details.csv
-https://github.com/sonalisaini645/POWER-BI-dashboard/blob/main/Orders.csv
 
 1. Details.csv
-   
- Column	Description
+
+## Data used 
+https://github.com/sonalisaini645/POWER-BI-dashboard/blob/main/Details.csv
+
+Column	Description
 
 Order ID	Unique order identifier
 
@@ -41,6 +41,10 @@ Sub-Category	Specific product type (e.g., Phones)
 PaymentMode	Payment method (COD, EMI, Credit Card, etc.)
 
 2. Orders.csv
+   
+## Data used
+
+https://github.com/sonalisaini645/POWER-BI-dashboard/blob/main/Orders.csv
 
 Column	Description
 
