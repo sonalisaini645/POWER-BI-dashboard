@@ -19,21 +19,35 @@ Identify top-performing regions, peak sales months, and profitable items.
 The dashboard is built using two CSV files:
 
 1. Details.csv
-Column	Description
+   
+ Column	Description
+
 Order ID	Unique order identifier
+
 Amount	Sales revenue for the order
+
 Profit	Profit earned from the order
+
 Quantity	Number of items purchased
+
 Category	Product category (e.g., Electronics)
+
 Sub-Category	Specific product type (e.g., Phones)
+
 PaymentMode	Payment method (COD, EMI, Credit Card, etc.)
 
 2. Orders.csv
+
 Column	Description
+
 Order ID	Unique order identifier
+
 Order Date	Date of order placed
+
 CustomerName	Name of the customer
+
 State	State of delivery
+
 City	City of delivery
 
 🔗 Join Key: Order ID (to relate both tables)
