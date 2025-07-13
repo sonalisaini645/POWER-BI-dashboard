@@ -20,6 +20,7 @@ The dashboard is built using two CSV files:
 
 ## Data used 
 https://github.com/sonalisaini645/POWER-BI-dashboard/blob/main/Details.csv
+https://github.com/sonalisaini645/POWER-BI-dashboard/blob/main/Orders.csv
 
 1. Details.csv
    
