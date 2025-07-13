@@ -18,6 +18,9 @@ Identify top-performing regions, peak sales months, and profitable items.
 ## Dataset Overview
 The dashboard is built using two CSV files:
 
+## Data used 
+https://github.com/sonalisaini645/POWER-BI-dashboard/blob/main/Details.csv
+
 1. Details.csv
    
  Column	Description
