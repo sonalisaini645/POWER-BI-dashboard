@@ -112,6 +112,8 @@ Dashboard published to Power BI Service
 Shared with Madhav Store management
 
 Daily auto-refresh scheduled for updated data
+## Dashboard Image
+https://github.com/sonalisaini645/POWER-BI-dashboard/blob/main/screenshot%20dashboard.png
 
 ## Description
 I have created a project in excel, creating multiple dashboards and tables to analyze the data .This process involved several stages imcluding data processing ,data cleaning and data visualization.
